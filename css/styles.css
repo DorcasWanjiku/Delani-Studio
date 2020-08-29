@@ -79,7 +79,7 @@ h1 {
     display: none;
 }
 #service {
-    background-image: url('../images/backgrounds/s_image.jpg');
+    background-image: url(/images/s_image.jpg);
     color: #fff;
     margin-bottom: 50px;
     background-position: center;
