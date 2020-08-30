@@ -5,7 +5,7 @@ html{
   scroll-behavior: smooth;
 }
 .landing{
-  background-image: url(/images/home.jpg);
+  background-image: url(../images/home.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -46,7 +46,7 @@ html{
 }
 .services{
   text-align: center;
-  background-image: url(/images/services.jpg);
+  background-image: url(../images/services.jpg);
   color: white;
   background-position: center;
   background-size: cover;
@@ -89,12 +89,12 @@ html{
   font-family: 'Gabriela', serif;
 }
 .contact{
-  background-image: url(/images/contact.jpg);
+  background-image: url(../images/contact.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
-  /* text-align: center; */
+ 
 }
 .title{
   padding: 6px;
@@ -172,7 +172,7 @@ footer p{
     top: 20px;
     left: 16px;
     padding-top: 20%;
-    /* font-size: 16px; */
+    
   }
   .col-md-3 img{
     width:100%px;
@@ -186,9 +186,7 @@ footer p{
     margin-left: 2%;
     padding-bottom: 30px;
     margin-bottom: 20px;
-    /* margin-left: 10px; */
-
-    /* margin-right: -20%; */
+    
   }
 }
 @media only screen and (max-width: 425px){
