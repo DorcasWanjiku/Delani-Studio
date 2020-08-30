@@ -5,7 +5,7 @@ html{
   scroll-behavior: smooth;
 }
 .landing{
-  background-image: url(/images/h_img.jpg);
+  background-image: url(/images/home.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -46,7 +46,7 @@ html{
 }
 .services{
   text-align: center;
-  background-image: url(/images/s_image.jpg);
+  background-image: url(/images/services.jpg);
   color: white;
   background-position: center;
   background-size: cover;
@@ -89,7 +89,7 @@ html{
   font-family: 'Gabriela', serif;
 }
 .contact{
-  background-image: url(/images/c_image.jpg);
+  background-image: url(/images/contact.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
